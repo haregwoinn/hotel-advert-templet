@@ -1,0 +1,9 @@
+*{
+    border: 0px;
+    margin: 0px;
+}
+.page-footer{
+    background-color: #0DCAF0;
+    text-align: center;
+    height: 50px;
+}
